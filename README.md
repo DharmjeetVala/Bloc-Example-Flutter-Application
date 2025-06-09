@@ -1,16 +1,7 @@
-# bloc_example_application
 
-bloc example application
+# 📱 Flutter BLoC Counter Example
 
-## Getting Started
+A simple Flutter application demonstrating the use of the BLoC (Business Logic Component) pattern for state management. This project serves as a basic example of how to use the `flutter_bloc` package to separate business logic from UI in a Flutter app.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Created by Dharmjeet Vala.
+Contributions, suggestions, and feedback are welcome!
